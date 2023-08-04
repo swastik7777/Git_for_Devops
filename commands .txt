@@ -12,3 +12,4 @@ git restore filename
 git remote -v
 git clone 
 git pull origin main
+git remote set-url --add origin 
